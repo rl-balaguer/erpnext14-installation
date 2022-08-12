@@ -1,5 +1,5 @@
 # ERPNext 14 Installation
-This installation uses the stable version of frappe framework(14.1.0) and erpnext runtime(14.0.0).
+This installation uses the stable version of frappe framework(14.1.0) and erpnext runtime(14.0.0).</br>
 *You can skip steps 1 and 2 if you're installing ERPNext directly to your host machine.*
 ## 1. Virtual Machine
 *Note: Deploying the ERP System inside a virtual machine is the simplest and easiest procedure. Through the use of snapshots and clone, it is easier to backup and restore the ERP system image.*

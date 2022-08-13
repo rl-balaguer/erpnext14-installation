@@ -47,14 +47,14 @@ mysql_secure_installation
 
 The above command will prompt for the following options:
 
-Enter current password for root (enter for none): **(Enter)**
-Switch to `unix_socket authentication`: **n**
-Change the `root` password?: **y**
-New password: YOUR_PASSWORD
-Remove anonymous user?: **y**
-Disallow root login remotely: **y**
-Remove test database and access to it?: **y**
-Reload privilege tables now? **y**
+Enter current password for root (enter for none): **(Enter)**<br/>
+Switch to `unix_socket authentication`: **n**<br/>
+Change the `root` password?: **y**<br/>
+New password: YOUR_PASSWORD<br/>
+Remove anonymous user?: **y**<br/>
+Disallow root login remotely: **y**<br/>
+Remove test database and access to it?: **y**<br/>
+Reload privilege tables now? **y**<br/>
 
 #### MySQL Development files
 ```bash
